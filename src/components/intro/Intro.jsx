@@ -28,18 +28,15 @@ const Intro = () => {
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
               <h5>Projects</h5>
-              <small>4 Completed Projects</small>
+              <small>3 Completed Projects</small>
             </article>
           </div>
           <p>
-            1 years experienced Front End Developer with hands-on experience in
-            identifying web-based user interactions along with designing and
-            implementing highly-responsive user interface components by
-            deploying React concepts. Proficient in translating designs and
-            wireframes into high-quality code, and writing application interface
-            code via JavaScript and React JS workflows. Adept at monitoring and
-            maintaining frontend performance and troubleshooting and debugging
-            the same to bolster overall performance.
+          Creative UI Designer with 1 year of experience in crafting intuitive and engaging 
+          web and mobile interfaces. Skilled in Figma, Adobe XD, and Sketch, translating 
+          wireframes into high-fidelity designs. Passionate about usability, accessibility, 
+          and seamless collaboration with developers.
+            
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk

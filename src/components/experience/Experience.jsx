@@ -9,40 +9,38 @@ const Experience = () => {
       <h2>Skills</h2>
       <div className="container experience__container">
         <div className="experience__frontend">
-          <h3>Front-end Development</h3>
+          <h3> UI/UX Designer</h3>
           <div className="experience__content">
           <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
-              <h4>HTML , CSS</h4>
+              <h4>Figma</h4>
             </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
-              <h4>JavaScript</h4>
-            </article>          
+              <h4>Photoshop, Canva </h4>
+            </article>  
+            </div>
+          
+            <div className="experience__frontend"><br></br>
+            <h3>Front-end Development</h3>  
+            <div className="experience__content">     
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
-              <h4>Bootstrap, Tailwind</h4>
+              <h4>Html , CSS ,Javascript</h4>
             </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
-              <h4>React.js </h4>
+              <h4>Reactjs, WordPress</h4>
             </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
-              <h4>Typescript</h4>
-            </article>
-            <article className="experience__details">
-              <BsFillPatchCheckFill className="experience__details-icon" />
-              <h4>Figma , Canva </h4>
+              <h4>BootStrap, Tailwind Css </h4>
             </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
               <h4>Responsive Design</h4>
             </article>
-            <article className="experience__details">
-              <BsFillPatchCheckFill className="experience__details-icon" />
-              <h4>WordPress</h4>
-            </article>
+            </div>
           </div>
         </div>
       </div>
